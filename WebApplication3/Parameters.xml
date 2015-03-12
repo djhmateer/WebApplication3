@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<!--<?xml version="1.0" encoding="utf-8" ?>
 <parameters>
   <parameter name="DefaultConnection">
     <parameterEntry match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" scope="\\web\.config$" kind="XmlFile"/>
   </parameter>
-</parameters>
+</parameters>-->
